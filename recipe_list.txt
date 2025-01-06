@@ -1,1 +1,1 @@
-people_daily.recipe
+people_daily
